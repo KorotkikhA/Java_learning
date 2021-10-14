@@ -11,7 +11,6 @@ public class MyFirstProgram {
         Rectangle r = new Rectangle(4, 6);
         System.out.println("Площадь прямоугольника " + r.a + " и " + r.b + " = " + r.area());
 
-
         Point p = new Point();
         System.out.println("Рассотояние между точкой " + p.p1 + " и " + p.p2 + " является " + p.distance());
     }
